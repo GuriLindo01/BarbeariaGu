@@ -12,3 +12,9 @@ p{
     text-align: center;
 
 }
+
+.titulo-principal{
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(red, green, blue);
+}
