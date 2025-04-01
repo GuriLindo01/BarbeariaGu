@@ -16,5 +16,6 @@ p{
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: rgb(red, green, blue);
+    color: red;
+    background-color: darkgoldenrod;
 }
