@@ -19,5 +19,6 @@ p{
     text-transform: uppercase;
     text-align: center;
     color: white;
-    background-color: darkgoldenrod;
+    background-color: rgb(146, 140, 126);
+    padding: 50px;
 }
