@@ -1,7 +1,14 @@
+#banner{
+    width: 100%;
+}
+#beneficios{
+    width: 100%;
+}
+
 h2{
     text-align: center;
 }
 p{
     text-align: center;
-    background-color: rgb(red, green, blue);
+
 }
