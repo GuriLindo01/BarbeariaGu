@@ -29,7 +29,7 @@ p{
     text-align: center;
     color: white;
     background-color: rgb(146, 140, 126);
-    padding: 50px;
+    padding: 0px;
     margin: 0px;
 }
 
@@ -40,12 +40,12 @@ p{
 
 .principal{
     background-color: rgb(146, 140, 126);
-    padding: 30px;
+    padding: 0px;
     margin: 0px;
 }
 
 .beneficios{
     background-color: rgb(146, 140, 126);
-    padding: 30px;
+    padding: 0px;
     margin: 0px;
 }
