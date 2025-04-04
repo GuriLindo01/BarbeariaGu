@@ -3,6 +3,7 @@ backgroundcolor
 body{
     margin: 0px;
     padding: 0px;
+    font-family: sans-serif;
 }
 
 #banner{
@@ -29,4 +30,18 @@ p{
     background-color: rgb(146, 140, 126);
     padding: 50px;
     margin: 0px;
+}
+
+.titulo2{
+    color: darkgoldenrod;
+    font-family: sans-serif;
+}
+
+.principal{
+    background-color: red;
+    padding: 30px;
+}
+
+.beneficios{
+    
 }
