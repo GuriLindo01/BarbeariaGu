@@ -8,7 +8,7 @@ body{
 }
 
 #banner{
-    width: 2300px;
+    width: 60%;
     height: 1000px;
 }
 #beneficios{
@@ -64,5 +64,5 @@ ul{
 }
 
 .imagembeneficios{
-    width: 50%;
+    width: 60%;
 }
