@@ -1,7 +1,7 @@
 
 
 body{
-    margin: 0px;
+    margin: 50px;
     padding: 0px;
     font-family: sans-serif;
     background-color: black;
@@ -29,7 +29,7 @@ p{
     text-align: center;
     color: white;
     background-color: rgb(146, 140, 126);
-    padding: 0px;
+    padding: 40px;
     margin: 0px;
 }
 
@@ -40,7 +40,7 @@ p{
 
 .principal{
     background-color: rgb(146, 140, 126);
-    padding: 3px;
+    padding: 40px;
     margin: 0px;
 }
 
