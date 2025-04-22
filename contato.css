@@ -20,3 +20,13 @@ border-width: 3px;
 width: 700px;
 
 }
+
+a{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form{
+    display: block;
+    margin: auto;
+}
