@@ -26,6 +26,7 @@ button {
     border-style: none;
     width: 800px;
     border-radius: 700px;
+    background-color: rgb(153, 150, 150);
 }
 
 a {
