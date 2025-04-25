@@ -33,3 +33,9 @@ form{
     background-color: #F9F9F9;
 }
 
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0px auto;
+}
+
