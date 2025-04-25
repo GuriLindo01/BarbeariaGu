@@ -40,3 +40,9 @@ a {
     width: 940px;
     margin: 0px auto;
 }
+
+footer{
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 40px 0;
+}
