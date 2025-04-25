@@ -6,13 +6,13 @@ header{
 nav{
     position:absolute;
     top: 110px;
-    right: 130px;
+    right: 50px;
 }
 
 .caixa{
     position: relative;
     width: 940px;
-    margin: 130px;
+    margin: 50px;
 }
 
 nav li{
