@@ -35,12 +35,6 @@ a {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.caixa{
-    position: relative;
-    width: 940px;
-    margin: 0px auto;
-}
-
 footer{
     text-align: center;
     background: url(bg.jpg);
