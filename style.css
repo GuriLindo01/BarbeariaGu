@@ -28,7 +28,7 @@ p{
     text-transform: uppercase;
     text-align: center;
     color: white;
-    background-color: rgb(146, 140, 126);
+    background-color: rgb(153, 150, 150);
     padding: 60px;
     margin: 0px;
 }
@@ -39,13 +39,13 @@ p{
 }
 
 .principal{
-    background-color: rgb(146, 140, 126);
+    background-color: rgb(153, 150, 150);
     padding: 30px;
     margin: 0px;
 }
 
 .beneficios{
-    background-color: rgb(146, 140, 126);
+    background-color: rgb(153, 150, 150);
     padding: 30px;
     margin: 0px;
 }
